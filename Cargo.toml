@@ -1,0 +1,5 @@
+[package]
+name="i_kylin_os"
+version="1.45.0"
+authors = ["LI RUI"]
+[dependencies]
